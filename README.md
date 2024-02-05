@@ -22,8 +22,6 @@
 <div>
     <h4><a href="https://github.com/LidzDev/SmartPark">Smart Park</h4>
     <p>SmartPark is an iOS application that shows available car and bicycle parking spots across Edinburgh.  
-
-    <!-- Ultimately, we hope by showing bicycle parking in an accessible manner, our users will choose more environmentally friendly modes of transport. -->
 </div>
 <div>
     <h4><a href="https://github.com/LidzDev/Emissions-Calculator">EMIT: Emissions Calculator</h4>
