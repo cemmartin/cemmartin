@@ -7,8 +7,6 @@
 
 <p>If you're interested in my work or finding out more about me, please send me a message over on <a href="https://www.linkedin.com/in/claire-e-martin/">LinkedIn</a>!</p>
 
-<br>
-
 <h3>Projects</h3>
 <div>
     <h4><a href="https://github.com/LidzDev/SmartPark">Smart Park</h4>
@@ -19,12 +17,10 @@
     <p>Emit is an app that calculates and tracks corporate carbon emissions produced through employee travel. Ultimately, the goal of this project is to show businesses and employees the impact of their carbon emissions and encourage them to choose more environmentally-friendly modes of transport when commuting. </p>
 </div>
 
-<br>
-
 <h3>Languages</h3>
 <!-- <p>Python, Java, JavaScript, HTML, CSS, PHP</p> -->
-
-<br>
+<p>~coming soon! ~</p>
 
 <h3>Technology</h3>
+<p>~coming soon! ~</p>
 <!-- <p>PostgreSQL, MongoDB, Flask, React, React Native, Node.js, Spring, Intellij, Cypress, Insomnia, Figma, Trello, Mocha,</p> -->
