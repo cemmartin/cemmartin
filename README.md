@@ -1,7 +1,7 @@
 <h1>Welcome!</h1>
 
 <h2>My name is Claire Martin,</h2>
-<p>I am a Scotland-based software engineer/UX designer looking to work on innovative techn</p>
+<p>I am a Scotland-based software engineer/UX designer. A recent CodeClan grad, I'm looking to opportunities to work on innovative projects and to continue growing my knowledge of software.</p>
 
 <p>In my spare time I enjoy hillwaking, baking, and mucking about with code (so you may see this space change frequently!)</p>
 
