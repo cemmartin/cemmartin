@@ -17,10 +17,7 @@
     <p>Emit is an app that calculates and tracks corporate carbon emissions produced through employee travel. Ultimately, the goal of this project is to show businesses and employees the impact of their carbon emissions and encourage them to choose more environmentally-friendly modes of transport when commuting. </p>
 </div>
 
-<h3>Languages</h3>
+<h3>Tech Stack</h3>
+<p>~coming soon! ~</p>
 <!-- <p>Python, Java, JavaScript, HTML, CSS, PHP</p> -->
-<p>~coming soon! ~</p>
-
-<h3>Technology</h3>
-<p>~coming soon! ~</p>
 <!-- <p>PostgreSQL, MongoDB, Flask, React, React Native, Node.js, Spring, Intellij, Cypress, Insomnia, Figma, Trello, Mocha,</p> -->
