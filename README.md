@@ -24,6 +24,11 @@
 <h3>Tech Stack</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+        
 <!--   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,php" />
     <img src="https://skillicons.dev/icons?i=git"/>
@@ -32,3 +37,5 @@
 <p>~coming soon! ~</p>
 <!-- <p>Python, Java, JavaScript, HTML, CSS, PHP</p> -->
 <!-- <p>PostgreSQL, MongoDB, Flask, React, React Native, Node.js, Spring, Intellij, Cypress, Insomnia, Figma, Trello, Mocha,</p> -->
+
+<h3>What I'm Learning</h3>
