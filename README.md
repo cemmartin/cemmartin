@@ -40,12 +40,6 @@
 <!-- <p>Python, Java, JavaScript, HTML, CSS, PHP</p> -->
 <!-- <p>PostgreSQL, MongoDB, Flask, React, React Native, Node.js, Spring, Intellij, Cypress, Insomnia, Figma, Trello, Mocha,</p> -->
 
-<h3>What I'm Currently Learning</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon AWS"/>
-</p>
-
 <!-- <h3>Other Tech & Skills</h3> -->
 <!-- <p align="center"> -->
 <!--     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> -->
@@ -67,5 +61,11 @@
     <h4><a href="https://github.com/cemmartin/python_project">Hopsitality Order Management App</h4>
     <p>This order management app was inspired by my experience working in a bakery/cafe during the peak of the pandemic. It was designed with my employer and many of the pitfalls we faced in mind, however it can easily be used by any similar establishment.</p>
 </div>
+
+<h3>What I'm Currently Learning</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon AWS"/>
+</p>
 
 <p align="center">Thanks for checking out my profile!</p>
