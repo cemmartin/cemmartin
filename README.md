@@ -16,6 +16,10 @@
     <h4><a href="https://github.com/LidzDev/Emissions-Calculator">EMIT: Emissions Calculator</h4>
     <p>Emit is an app that calculates and tracks corporate carbon emissions produced through employee travel. Ultimately, the goal of this project is to show businesses and employees the impact of their carbon emissions and encourage them to choose more environmentally-friendly modes of transport when commuting. </p>
 </div>
+<div>
+    <h4><a href="https://github.com/cemmartin/python_project">Hopsitality Order Management App</h4>
+    <p>This order management app was inspired by my experience working in a bakery/cafe during the peak of the pandemic. It was designed with my employer and many of the pitfalls we faced in mind, however it can easily be used by any similar establishment.</p>
+</div>
 
 <h3>Tech Stack</h3>
 <p>~coming soon! ~</p>
