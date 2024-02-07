@@ -1,9 +1,9 @@
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRveWs0NGlpdGlmY290Z2p2YnJvaG9qczAwM2x4M2wxbXJkcmo3ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dzaUX7CAG0Ihi/giphy.gif">
 
 <h1>Hi, I'm Claire!</h1>
-<p>I'm a Scotland-based software engineer/UX designer. A recent CodeClan grad, I'm looking for opportunities to work on innovative projects and to continue growing my knowledge of software.</p> 
+<p>I'm a Scotland-based software engineer/UX designer. A recent CodeClan grad, I'm looking for opportunities to work on innovative projects and to continue growing my knowledge of software on a positive and collaborative team.</p> 
 
-<p>In my spare time I enjoy hillwaking, baking, and mucking about with code (so you may see this space change frequently). If you're interested in my work or finding out more about me, please send me a message over on <a href="https://www.linkedin.com/in/claire-e-martin/">LinkedIn</a>!</p>
+<p>In my spare time I enjoy hillwaking, baking, and mucking about with code. If you're interested in my work or finding out more about me, please send me a message over on <a href="https://www.linkedin.com/in/claire-e-martin/">LinkedIn</a>!</p>
 
 <h3>Tech Stack</h3>
 <p align="center">
@@ -62,6 +62,7 @@
 </div>
 
 <h3>What I'm Currently Learning</h3>
+<p>I'm always looking to expand my knowledge of tech, so here's what I'm currently working to learn:
 <p align="center">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon AWS"/>
